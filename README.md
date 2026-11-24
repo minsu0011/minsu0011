@@ -2,7 +2,6 @@
 
 Computer Science · ML / Financial ML · Feature Engineering · Applied AI · Systems
 
-데이터의 생성 과정과 특성을 반영한 feature engineering, 시계열 모델링과 검증에 관심이 있습니다. 연구 코드를 API와 애플리케이션으로 연결하는 작업도 함께 합니다.
 
 ## Research
 
